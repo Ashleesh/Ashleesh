@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ashleshmorghade84@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15BdjCxcDn6TgyJuP9Cw-UzzMYjHvcn0O/view?usp=drive_link](https://drive.google.com/file/d/15BdjCxcDn6TgyJuP9Cw-UzzMYjHvcn0O/view?usp=drive_link)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1h755B0mheRZc5hsz44F7uUE0qWia4JdR/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
