@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashlesh Morghade</h1>
 <h3 align="center">Learning. Building. Evolving.</h3>
 
-- 🔭 I’m currently working on [Gate Pass Management System](git@github.com:Ashleesh/Gate-Pass_Management-System.git)
+- 🔭 I’m currently working on [Bank Simulation System](git@github.com:Ashleesh/Gate-Pass_Management-System.git)
 
 - 🌱 I’m currently learning **Java Full Stack Development**
 
